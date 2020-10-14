@@ -1,0 +1,13 @@
+id,line_code,name
+1,"NSL","North-South Line"
+2,"EWL","East-West Line"
+3,"NEL","North-East Line"
+4,"CCL","Circle Line"
+5,"DTL","Downtown Line"
+6,"TEL","Thomson-East Coast Line"
+7,"BPL","Bukit Panjang LRT"
+8,"SEL","Sengkang LRT"
+9,"PEL","Punggol East Loop"
+10,"PWL","Punggol West Loop"
+11,"PTC","Punggol"
+12,"STC","Sengkang"

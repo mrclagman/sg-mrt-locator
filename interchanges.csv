@@ -1,0 +1,24 @@
+sourceLine,destinationLine,station
+NS,EW,Jurong East
+NS,EW,City Hall
+NS,EW,Raffles Place
+NS,CC,Bishan
+NS,CC,Dhoby Ghaut
+NS,CC,Marina Bay
+NS,DT,Newton
+NS,NE,Dhoby Ghaut
+NS,TE,Woodlands
+EW,DT,Tampines
+EW,DT,Bugis
+EW,DT,Expo
+EW,NE,Outram Park
+EW,CC,Paya Lebar
+EW,CC,Buona Vista
+NE,CC,Serangoon
+NE,CC,Dhoby Ghaut
+NE,CC,Harbourfront
+NE,DT,Chinatown
+CC,DT,MacPherson
+CC,DT,Botanic Gardens
+CC,DT,Promenade
+CC,DT,Bayfront
